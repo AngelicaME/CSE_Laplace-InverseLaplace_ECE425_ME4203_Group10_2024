@@ -1,2 +1,2 @@
-# SCARAV3_G16_Assignment_2024
+# CSE_Laplace-InverseLaplace_ECE425_ME4203_Group10_2024
 This is an assignment
